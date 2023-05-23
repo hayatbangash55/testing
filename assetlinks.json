@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "deepllinking_test",
+            "package_name": "com.example.deepllinking_test",
+            "sha256_cert_fingerprints": [
+                "2D:BE:0A:EE:69:9D:93:8A:98:59:C1:D4:5D:FD:6E:F8:1A:18:2F:A9:D4:81:FC:25:CA:09:B9:51:76:DE:83:00"
+            ]
+        }
+    }
+]
