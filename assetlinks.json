@@ -4,10 +4,10 @@
             "delegate_permission/common.handle_all_urls"
         ],
         "target": {
-            "namespace": "deepllinking_test",
-            "package_name": "com.example.deepllinking_test",
+            "namespace": "ISMMART",
+            "package_name": "com.ismmartgroup.ism_mart",
             "sha256_cert_fingerprints": [
-                "2D:BE:0A:EE:69:9D:93:8A:98:59:C1:D4:5D:FD:6E:F8:1A:18:2F:A9:D4:81:FC:25:CA:09:B9:51:76:DE:83:00"
+                "8A:9B:43:15:13:8F:3A:72:ED:ED:B5:00:06:C0:4F:68:C6:F3:68:4B:6B:D8:F5:FE:9B:F7:E5:D9:C7:9D:AC:7C"
             ]
         }
     }
